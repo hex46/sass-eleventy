@@ -1,4 +1,4 @@
-# Projet de test pour l'artice 'SASS & Eleventy'
+# Projet de test pour l'article 'SASS & Eleventy'
 
 ## Dépendances
 
